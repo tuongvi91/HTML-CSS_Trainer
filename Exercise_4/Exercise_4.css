@@ -1,0 +1,124 @@
+.box {
+    padding: 20px;
+    display: flex;
+}
+
+.name_career {
+    width: 700px;
+    color: rgba(0, 0, 0, 0.651);
+}
+
+.DOB {
+    color: rgba(0, 0, 0, 0.651);
+}
+
+.profile_photo {
+    object-fit: cover;
+    margin-top: 30px;
+    width: 400px;
+    height: 400px;
+    border-radius: 8px;
+}
+
+.career {
+    color: rgba(0, 0, 0, 0.651);
+}
+
+.SNS {
+    margin-left: 70px;
+}
+
+.Instagram {
+    display: flex;
+    border-bottom: dashed;
+    border-color: red;
+}
+
+.text_Instagram {
+    margin-left: 20px;
+}
+
+.IG_name {
+    width: 500px;
+    height: 80px;
+    color: rgba(0, 0, 0, 0.671)
+}
+
+.IG_photo {
+    object-fit: cover;
+    border-radius: 8px;
+    width: 100px;
+    height: 100px;
+}
+
+.Twitter {
+    margin-top: 30px;
+    display: flex;
+    border-bottom: dashed;
+    border-color: red;
+}
+
+.text_Twitter {
+    margin-left: 20px;
+}
+
+.TW_name {
+    width: 500px;
+    height: 80px;
+    color: rgba(0, 0, 0, 0.671)
+}
+
+.TW_photo {
+    object-fit: cover;
+    border-radius: 8px;
+    width: 100px;
+    height: 100px;
+}
+
+.education {
+    margin-top: 30px;
+    display: flex;
+    border-bottom: dashed;
+    border-color: red;
+}
+
+.text_education {
+    margin-left: 20px;
+}
+
+.education_content {
+    width: 500px;
+    height: 80px;
+    color: rgba(0, 0, 0, 0.671)
+}
+
+.young_photo {
+    object-fit: cover;
+    margin-top: 20px;
+    border-radius: 8px;
+    width: 100px;
+    height: 100px;
+}
+
+.awards {
+    margin-top: 30px;
+    display: flex;
+}
+
+.text_awards {
+    margin-left: 20px;
+}
+
+.offs_awards {
+    width: 500px;
+    height: 140px;
+    color: rgba(0, 0, 0, 0.671)
+}
+
+.awards_photo {
+    object-fit: cover;
+    margin-top: 30px;
+    border-radius: 8px;
+    width: 100px;
+    height: 100px;
+}
