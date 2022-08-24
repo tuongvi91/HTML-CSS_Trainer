@@ -1,0 +1,75 @@
+.box {
+    padding: 30px 5px 10px 5px;
+    width: 600px;
+    height: 400px;
+    background-color: pink;
+}
+
+.box_login_cpanel {
+    height: 350px;
+    width: 550px;
+    padding: 10px;
+    border-radius: 20px;
+    border-style: solid;
+    background-color: lightgrey;
+    border-color: lightslategrey;
+}
+
+.text_login_cpanel {
+    font-weight: bolder;
+    margin: 30px 0px 20px 0px;
+    font-size: 30px;
+}
+
+.email_space {
+    margin-bottom: 10px;
+    margin-right: 1px;
+}
+
+.email {
+    margin-right: 392px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.enter_email {
+    padding-left: 10px;
+    font-size: 13px;
+    width: 480px;
+    height: 40px;
+    border-style: hidden;
+    border-radius: 5px;
+}
+
+.password_space {
+    margin-bottom: 20px;
+    margin-right: 400px;
+}
+
+.password {
+    margin-right: 392px;
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+.enter_password {
+    padding-left: 10px;
+    font-size: 13px;
+    width: 480px;
+    height: 40px;
+    border-style: hidden;
+    border-radius: 5px;
+}
+
+.login {
+    margin-top: 30px;
+    border-radius: 5px;
+    width: 480px;
+    height: 40px;
+    background-color: rgb(14, 16, 19);
+}
+
+.text_login {
+    color: white;
+    font-size: 20px;
+}
