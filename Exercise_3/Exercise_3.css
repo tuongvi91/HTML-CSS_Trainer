@@ -1,14 +1,12 @@
 .box {
-    padding: 30px 5px 10px 5px;
-    width: 600px;
-    height: 400px;
+    padding-top:5%;
     background-color: pink;
+    height: 100%;
 }
 
 .box_login_cpanel {
     height: 350px;
     width: 550px;
-    padding: 10px;
     border-radius: 20px;
     border-style: solid;
     background-color: lightgrey;
@@ -27,9 +25,10 @@
 }
 
 .email {
-    margin-right: 392px;
+    margin-left: 35px;
     font-size: 15px;
-    font-weight: lighter;
+    text-align: left;
+    font-weight: bolder;
 }
 
 .enter_email {
@@ -47,8 +46,9 @@
 }
 
 .password {
-    margin-right: 392px;
-    font-weight: lighter;
+    text-align:left;
+    margin-left: 35px;
+    font-weight: bolder;
     font-size: 15px;
 }
 
