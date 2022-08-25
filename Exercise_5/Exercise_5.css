@@ -1,0 +1,125 @@
+.box {
+    width: 100%;
+    height: 100%;
+}
+
+.head {
+    padding: 20px;
+    text-align: center;
+}
+
+.head_title {
+    font-size: xx-large;
+    font-weight:bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.head_note {
+    padding-top: 20px;
+    font-size: small;
+    color: gray;
+}
+
+.head_note2 {
+    padding-top: 7px;
+}
+
+.body {
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 1000px;
+    height: 430px;
+    background-color: lightgrey;
+    box-shadow: 5px 0px 12px gray;
+    box-shadow: -5px 5px 12px gray;
+    display: block;
+}
+
+.form {
+    display: flex;
+}
+
+.left_form {
+    text-align: left;
+    display: block;
+    padding: 20px 10px 10px 20px;
+}
+
+.FirstName {
+    padding: 10px;
+    margin: 15px 10px 20px 15px;
+    height: 35px;
+    width: 440px;
+    border-style: hidden;
+    border-radius: 2px;
+}
+
+.YourEmail {
+    padding: 10px;
+    height: 35px;
+    width: 440px;
+    border-style: hidden;
+    border-radius: 2px;
+    margin: 15px 10px 20px 15px;
+}
+
+.SelectCountry {
+    color: gray;
+    margin: 15px 10px 20px 15px;
+    padding: 10px;
+    height: 35px;
+    width: 440px;
+    border-style: hidden;
+    border-radius: 2px;
+}
+
+.right_form {
+    text-align: right;
+    display: block;
+    padding: 20px 20px 5px 10px;
+}
+
+.LastName {
+    padding: 10px;
+    margin: 15px 15px 20px 7px;
+    height: 35px;
+    width: 440px;
+    border-style: hidden;
+    border-radius: 2px;
+}
+
+.YourPhone {
+    padding: 10px;
+    height: 35px;
+    width: 440px;
+    border-style: hidden;
+    border-radius: 2px;
+    margin: 15px 15px 20px 7px;
+}
+
+.SelectCourse {
+    color: gray;
+    margin: 15px 15px 20px 7px;
+    padding: 10px;
+    height: 35px;
+    width: 440px;
+    border-style: hidden;
+    border-radius: 2px;
+}
+
+.content {
+    padding: 10px;
+    margin: 1px 20px 20px 35px;
+}
+
+.submit {
+    border-radius: 5px;
+    background-color: black;
+    margin-left: 35px;
+    padding: 10px 443px 10px 443px;
+}
+
+.text {
+    color: white;
+    text-align: center;
+}
