@@ -1,0 +1,79 @@
+.head {
+    display: block;
+    padding: 20px;
+    text-align: center;
+    font-size: 27;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.head2 {
+    margin-top: 10px;
+}
+
+.body {
+    padding: 40px 30px 40px 60px;
+    display: flex;
+}
+
+.left_body {
+    width: 1800px;
+    box-shadow: 5px 5px 12px lightgrey, -5px -5px 12px lightgrey;
+    margin-left: 90px;
+}
+
+.title {
+    line-height:35px;
+    text-align: left;
+    padding: 30px 20px 10px 50px;
+    font-weight: lighter;
+    font-size: 22;
+}
+
+.content {
+    line-height:35px;
+    padding: 30px 20px 20px 50px;
+    color: rgba(0, 0, 0, 0.58);
+    font-size: 19;
+}
+
+.footer {
+    line-height:35px;
+    display: block;
+}
+
+.LouieJieMahusay {
+    font-weight: lighter;
+    font-size: large;
+    padding: 30px 0px 15px 60px;
+}
+
+.CEO_Founder {
+    padding-left: 60px;
+    color: rgba(0, 0, 255, 0.356);
+}
+
+.right_body {
+    padding: 20px 60px 30px 40px;
+    margin-left: 30px;
+    display: block;
+}
+
+.paragraph_1 {
+    color: rgba(0, 0, 0, 0.58);
+    font-size: 19;
+    line-height:35px;
+}
+
+.paragraph_2 {
+    line-height:35px;
+    padding: 35px 0px 35px 0px;
+    color: rgba(0, 0, 0, 0.685);
+    font-size: 19;
+    font-weight: bolder;
+}
+
+.paragraph_3 {
+    line-height:35px;
+    color: rgba(0, 0, 0, 0.58);
+    font-size: 19;
+}
