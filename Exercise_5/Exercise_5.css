@@ -1,0 +1,127 @@
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+.header {
+    padding: 20px;
+    text-align: center;
+}
+
+.head_title {
+    font-size: xx-large;
+    font-weight:bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.head_note {
+    padding-top: 20px;
+    font-size: small;
+    color: gray;
+}
+
+.head_note2 {
+    padding-top: 7px;
+}
+
+.body_container {
+    padding-bottom: 30px;
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 1000px;
+     background-color: lightgrey;
+    box-shadow: 5px 0px 12px gray;
+    box-shadow: -5px 5px 12px gray;
+    display: block;
+}
+
+.form {
+    display: flex;
+}
+
+.left_form {
+    text-align: left;
+    display: block;
+    padding: 20px 10px 10px 20px;
+}
+
+.firstName {
+    padding: 10px;
+    margin: 15px 10px 20px 15px;
+    height: 35px;
+    width: 440px;
+    border-style: hidden;
+    border-radius: 2px;
+}
+
+.yourEmail {
+    padding: 10px;
+    height: 35px;
+    width: 440px;
+    border-style: hidden;
+    border-radius: 2px;
+    margin: 15px 10px 20px 15px;
+}
+
+.selectCountry {
+    color: gray;
+    margin: 15px 10px 20px 15px;
+    padding: 10px;
+    height: 35px;
+    width: 440px;
+    border-style: hidden;
+    border-radius: 2px;
+}
+
+.right_form {
+    text-align: right;
+    display: block;
+    padding: 20px 20px 5px 10px;
+}
+
+.lastName {
+    padding: 10px;
+    margin: 15px 15px 20px 7px;
+    height: 35px;
+    width: 440px;
+    border-style: hidden;
+    border-radius: 2px;
+}
+
+.yourPhone {
+    padding: 10px;
+    height: 35px;
+    width: 440px;
+    border-style: hidden;
+    border-radius: 2px;
+    margin: 15px 15px 20px 7px;
+}
+
+.selectCourse {
+    color: gray;
+    margin: 15px 15px 20px 7px;
+    padding: 10px;
+    height: 35px;
+    width: 440px;
+    border-style: hidden;
+    border-radius: 2px;
+}
+
+.content {
+    padding: 10px;
+    margin: 1px 20px 20px 35px;
+    width: 93%;
+    height: 80px;
+}
+
+.submit {
+    border-radius: 5px;
+    background-color: black;
+    margin-left: 35px;
+    padding: 10px 443px 10px 443px;
+ }
+
+.text {
+    color: white;
+    text-align: center;
+}
