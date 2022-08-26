@@ -16,13 +16,13 @@
 }
 
 .left_body {
-    height: 500px;
     width: 1800px;
     box-shadow: 5px 5px 12px lightgrey, -5px -5px 12px lightgrey;
     margin-left: 90px;
 }
 
 .title {
+    line-height:35px;
     text-align: left;
     padding: 30px 20px 10px 50px;
     font-weight: lighter;
@@ -30,12 +30,14 @@
 }
 
 .content {
+    line-height:35px;
     padding: 30px 20px 20px 50px;
     color: rgba(0, 0, 0, 0.58);
     font-size: 19;
 }
 
 .footer {
+    line-height:35px;
     display: block;
 }
 
@@ -59,9 +61,11 @@
 .paragraph_1 {
     color: rgba(0, 0, 0, 0.58);
     font-size: 19;
+    line-height:35px;
 }
 
 .paragraph_2 {
+    line-height:35px;
     padding: 35px 0px 35px 0px;
     color: rgba(0, 0, 0, 0.685);
     font-size: 19;
@@ -69,6 +73,7 @@
 }
 
 .paragraph_3 {
+    line-height:35px;
     color: rgba(0, 0, 0, 0.58);
     font-size: 19;
 }
