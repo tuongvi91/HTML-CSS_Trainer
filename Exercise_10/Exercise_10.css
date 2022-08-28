@@ -68,16 +68,21 @@
 .right_body_read_more {
     width: 100px;
     height: 35px;
+    border-radius: 3px;
+    border-color: rgba(0, 0, 0, 0.427);
 }
 
 .left_body_read_more:hover {
     background-color:greenyellow;
+    border-radius: 3px;
 }
 
 .middle_body_read_more:hover {
     background-color: red;
+    border-radius: 3px;
 }
 
 .right_body_read_more:hover {
     background-color:yellow;
+    border-radius: 3px;
 }
