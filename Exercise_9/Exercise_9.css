@@ -1,0 +1,69 @@
+.container {
+    background-color: whitesmoke;
+    width: 100%;
+    height: 100%;
+}
+
+.background {
+    height: 170px;
+    width: 100%;
+    background-color: rgb(49, 202, 213);
+}
+
+.introduction_sentence {
+    width: 600px;
+    padding: 35px 0px 50px 40px;
+    color: white;
+    font-size: 30;
+    line-height: 30px;
+    text-align: left;
+}
+
+.content {
+    display: flex;
+    padding: 0px 0px 0px 30px;
+}
+
+.outstanding_design,
+.responsive_layout,
+.easy_to_use {
+    background-color: white;
+    height: 200px;
+    width: 330px;
+    position: absolute;
+    padding: 60px 0px 50px 30px;
+}
+
+.outstanding_design_title,
+.responsive_layout_title,
+.easy_to_use_title {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.outstanding_design_content,
+.responsive_layout_content,
+.easy_to_use_content {
+    font-size: 17;
+    color: rgba(0, 0, 0, 0.283);
+    padding-top: 15px;
+    margin-right: 20px;
+    line-height: 25px;
+}
+
+.outstanding_design {
+    top: 140px;
+    left: 40px;
+    margin-right: 100px;
+}
+
+.responsive_layout {
+    top: 140px;
+    left: 450px;
+    margin-right: 100px;
+}
+
+.easy_to_use {
+    top: 140px;
+    left: 860px;
+}
