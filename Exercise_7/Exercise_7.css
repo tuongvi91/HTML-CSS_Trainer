@@ -1,0 +1,98 @@
+.container {
+    padding: 40px 50px 40px 50px;
+    display: block;
+}
+
+.header {
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.orange_line {
+    margin-left: 1px;
+    width: 65px;
+    height:2px;
+    border: hidden;
+    background-color: darkorange;
+}
+
+.body_container {
+    padding-top: 40px;
+    display: flex;
+}
+
+.left_body_container {
+    display: block;
+    margin-right: 10px;
+    width: 400px;
+}
+
+.left_body_container_title {
+    font-size: 23;
+}
+
+.content {
+    padding: 45px;
+}
+
+.address {
+    color: rgba(0, 0, 0, 0.486);
+}
+
+.email {
+    color: rgba(0, 0, 0, 0.486);
+    padding: 40px 10px 40px 0px;
+}
+
+.phone_number {
+    color: rgba(0, 0, 0, 0.486);
+}
+
+.right_body_container {
+    padding: 0px 30px 0px 70px;
+}
+
+.right_body_container_title {
+    font-size: 23;
+    padding-bottom: 45px;
+}
+
+.name_box {
+    width: 800px;
+    padding: 9px 0px 9px 15px;
+    border-color: rgba(0, 0, 0, 0.281);
+    border-width: thin;
+}
+
+.email_box {
+    width: 800px;
+    padding: 9px 0px 9px 15px;
+    margin: 15px 0px 15px 0px;
+    border-color: rgba(0, 0, 0, 0.281);
+    border-width: thin;
+}
+
+.subject_box {
+    width: 800px;
+    padding: 9px 0px 9px 15px;
+    border-color: rgba(0, 0, 0, 0.281);
+    border-width: thin;
+}
+
+.message {
+    margin-top: 15px;
+    width: 800px;
+    padding: 20px 0px 20px 15px;
+}
+
+.send_message {
+    width: 170px;
+    height: 40px;
+    background-color: rgb(8, 130, 101);
+    border: hidden;
+    margin-top: 15px;
+}
+
+.text_send_message {
+    color: white;
+}
